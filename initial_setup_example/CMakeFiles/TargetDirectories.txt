@@ -1,0 +1,3 @@
+/home/nilton/github/learning-opencv/initial_setup_example/CMakeFiles/rebuild_cache.dir
+/home/nilton/github/learning-opencv/initial_setup_example/CMakeFiles/DisplayImage.dir
+/home/nilton/github/learning-opencv/initial_setup_example/CMakeFiles/edit_cache.dir
