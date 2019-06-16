@@ -1,0 +1,3 @@
+/home/nilton/github/opencv-cpp/blank_image_display/build/CMakeFiles/rebuild_cache.dir
+/home/nilton/github/opencv-cpp/blank_image_display/build/CMakeFiles/blank_image_display.dir
+/home/nilton/github/opencv-cpp/blank_image_display/build/CMakeFiles/edit_cache.dir
