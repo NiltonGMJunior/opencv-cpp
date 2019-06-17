@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
     }
 
     // Make changes to the image before outputting it.
-    // Here, the image is converted to greyscale
+    // In this example, the image is converted to greyscale.
     cv::Mat image_greyscale;
     cv::cvtColor(image, image_greyscale, cv::COLOR_BGR2GRAY);
 
