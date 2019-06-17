@@ -1,0 +1,3 @@
+/home/nilton/github/opencv-cpp/play_video_file/build/CMakeFiles/rebuild_cache.dir
+/home/nilton/github/opencv-cpp/play_video_file/build/CMakeFiles/play_video_file.dir
+/home/nilton/github/opencv-cpp/play_video_file/build/CMakeFiles/edit_cache.dir

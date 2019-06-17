@@ -1,0 +1,3 @@
+/home/nilton/github/opencv-cpp/capture_video_webcam/build/CMakeFiles/rebuild_cache.dir
+/home/nilton/github/opencv-cpp/capture_video_webcam/build/CMakeFiles/capture_video_webcam.dir
+/home/nilton/github/opencv-cpp/capture_video_webcam/build/CMakeFiles/edit_cache.dir
